@@ -1,3 +1,4 @@
+<img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1.png" height="32" width="32" alt="BTC">
 # Hi there, Welcome to my GitHub Page 👋
 
 <div style="text-align: center;"> 
