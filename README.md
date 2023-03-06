@@ -1,4 +1,8 @@
-<img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1.png" height="32" width="32" alt="BTC">
+<div style="display:flex; flex-wrap:warp;">
+<img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1.png" height="64" width="64" alt="BTC" style="padding-right:15px;">
+<img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png" height="64" width="64" alt="ETH">
+  <h1>I am blockchain developer(<strong>Staking, Swap, NFT Marketplace ...</strong>). I have 6 years of experience in blockchain development.</h1>
+</div>
 # Hi there, Welcome to my GitHub Page 👋
 
 <div style="text-align: center;"> 
