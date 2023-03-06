@@ -3,14 +3,14 @@
 <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png" height="64" width="64" alt="ETH">
   <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/825.png" height="64" width="64" alt="USDT">
 <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png" height="64" width="64" alt="BNB">
-<img src="https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png" height="46" width="64" alt="USDC">
+<img src="https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png" height="64" width="64" alt="USDC">
   </div>
   <div style="display:flex;flex-wrap:wrap;">
-  <h2>I am blockchain developer(</h2>
-    <h1 style="color:#f1c40f;">Staking,</h1>
-  <h1 style="color:#e74c3c;">Swap,</h1>
-  <h1 style="color:#3498db;">NFT Marketplace ...</h1>
-    <h2>) I have 6 years of experience in blockchain development.</h2>
+  <a>I am blockchain developer(</a>
+    <a style="color:#f1c40f;">Staking,</a>
+  <a style="color:#e74c3c;">Swap,</a>
+  <a style="color:#3498db;">NFT Marketplace ...</a>
+    <a>) I have 6 years of experience in blockchain development.</a>
 </div>
 # Hi there, Welcome to my GitHub Page 👋
 
