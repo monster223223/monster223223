@@ -6,8 +6,8 @@
 <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png" height="64" width="64" alt="USDC">
   </div>
   <div style="display:flex;flex-wrap:wrap;">
-  <a style="font-size:30px;">I am blockchain developer(</a>
-  <a style="font-size:35px;"><strong>Staking,</strong></a>
+  <a font-size="30">I am blockchain developer(</a>
+  <a font-size="30"><strong>Staking,</strong></a>
   <a style="color:#e74c3c;font-size:35px;"><strong>Swap,</strong></a>
   <a style="color:#3498db;font-size:35px;"><strong>NFT Marketplace ...</strong></a>
     <a style="font-size:30px;">) I have 6 years of experience in blockchain development.</a>
