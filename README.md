@@ -10,7 +10,7 @@
   <a font-size="30"><strong>Staking,</strong></a>
   <a style="color:#e74c3c;font-size:35px;"><strong>Swap,</strong></a>
   <a style="color:#3498db;font-size:35px;"><strong>NFT Marketplace ...</strong></a>
-    <a style="font-size:30px;">) I have 6 years of experience in blockchain development.</a>
+    <a style="font-size:30px;">) I have 6 years of experience in full-stack development and 4 years of experience in blockchain development.</a>
 </div>
 # Hi there, Welcome to my GitHub Page 👋
 
