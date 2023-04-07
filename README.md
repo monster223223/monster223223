@@ -34,7 +34,7 @@
 
 
 <!-- ## About Me😀 -->
-<h1 align="center"> 🙏🏻 , I'm Kay Akira <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
+<h1 align="center"> 🙏🏻 , I'm fhsion & rich dev <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 <p>- ⚡  I'm curently Blockchain Developer </p>
 <p>- 🔭 I’m currently working on Blockchain and Web3 Developement</p>
 <p>- 👯 I’m looking to collaborate on Different kinds of Software Projects</p>
